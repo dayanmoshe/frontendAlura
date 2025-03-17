@@ -57,4 +57,4 @@ Me acompanhe no GitHub e no LinkedIn para mais projetos!
 
 ⭐ Se gostou do projeto, deixe uma estrela no repositório!
 
-Esse `README.md` é simples, direto e profissional, ideal para destacar seu aprendizado e chamar a atenção de recrutadores. 
+Esse `README.md` é simples, direto e profissional, ideal para mostrar que nem só de front end vive o dev
