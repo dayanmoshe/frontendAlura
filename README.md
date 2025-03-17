@@ -33,10 +33,10 @@ Caso queira testar localmente, siga os passos abaixo:
 
 ```bash
 # Clone este repositório
-git clone https://github.com/seuusuario/nome-do-repositorio.git
+git clone https://github.com/dayanmoshe/frontendAlura.git
 
 # Acesse a pasta do projeto
-cd nome-do-repositorio
+cd frontendAlura
 
 # Abra o arquivo index.html no navegador
 
